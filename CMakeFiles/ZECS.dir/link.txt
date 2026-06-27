@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,--dependency-file=CMakeFiles/ZECS.dir/link.d -Wl,-soname,libZECS.so -o lib/libZECS.so CMakeFiles/ZECS.dir/src/zecs.cpp.o

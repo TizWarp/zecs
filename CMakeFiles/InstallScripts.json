@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/tizwarp/Projects/zen_ecs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

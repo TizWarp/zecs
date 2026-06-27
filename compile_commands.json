@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/tizwarp/Projects/zen_ecs",
+  "command": "/usr/bin/c++ -DZECS_EXPORTS -I/home/tizwarp/Projects/zen_ecs/ZECS -I/home/tizwarp/Projects/zen_ecs/./include -I/home/tizwarp/Projects/zen_ecs/test_ecs -I/home/tizwarp/Projects/zen_ecs/./src -fPIC -o CMakeFiles/ZECS.dir/src/zecs.cpp.o -c /home/tizwarp/Projects/zen_ecs/src/zecs.cpp",
+  "file": "/home/tizwarp/Projects/zen_ecs/src/zecs.cpp",
+  "output": "CMakeFiles/ZECS.dir/src/zecs.cpp.o"
+},
+{
+  "directory": "/home/tizwarp/Projects/zen_ecs",
+  "command": "/usr/bin/c++  -I/home/tizwarp/Projects/zen_ecs/ZECS -I/home/tizwarp/Projects/zen_ecs/./include -I/home/tizwarp/Projects/zen_ecs/test_ecs -I/home/tizwarp/Projects/zen_ecs/./src  -o CMakeFiles/test_ecs.dir/tests.cpp.o -c /home/tizwarp/Projects/zen_ecs/tests.cpp",
+  "file": "/home/tizwarp/Projects/zen_ecs/tests.cpp",
+  "output": "CMakeFiles/test_ecs.dir/tests.cpp.o"
+}
+]

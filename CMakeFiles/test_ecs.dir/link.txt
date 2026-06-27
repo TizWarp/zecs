@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/test_ecs.dir/link.d CMakeFiles/test_ecs.dir/tests.cpp.o -o bin/test_ecs  -Wl,-rpath,/home/tizwarp/Projects/zen_ecs/lib lib/libZECS.so
