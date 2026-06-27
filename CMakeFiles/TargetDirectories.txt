@@ -1,4 +1,0 @@
-/home/tizwarp/Projects/zen_ecs/CMakeFiles/ZECS.dir
-/home/tizwarp/Projects/zen_ecs/CMakeFiles/test_ecs.dir
-/home/tizwarp/Projects/zen_ecs/CMakeFiles/edit_cache.dir
-/home/tizwarp/Projects/zen_ecs/CMakeFiles/rebuild_cache.dir
